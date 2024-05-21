@@ -40,7 +40,3 @@ To run this website locally, follow these steps:
 ## Usage
 
 Once the website is opened in a web browser, you can navigate through the different sections using the provided links or by scrolling through the page. The contact form can be used to send a message to Anjali.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
